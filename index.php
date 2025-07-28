@@ -298,10 +298,9 @@
         </section>
 
 
-        <!--
-          - testimonials
-        -->
-<!-- 
+   
+          <!-- - testimonials -->
+
         <section class="testimonials">
 
           <h3 class="h3 testimonials-title">Testimonials</h3>
@@ -398,12 +397,12 @@
 
           </ul>
 
-        </section> -->
+        </section> 
 
 
-        <!--
+        
           - testimonials modal
-        -->
+    
 
         <div class="modal-container" data-modal-container>
 
@@ -446,11 +445,11 @@
         </div>
 
 
-        <!--
+   
           - clients
-        -->
-
-        <!-- <section class="clients">
+   
+<!-- cleint collab section start here  -->
+        <section class="clients">
 
           <h3 class="h3 clients-title">Clients</h3>
 
@@ -494,16 +493,16 @@
 
           </ul>
 
-        </section> -->
+        </section>
 
       </article>
-
+<!-- cleint collab section end  here  -->
 
 
 
 
       <!--
-        - #RESUME
+        - #RESUME section start here 
       -->
 
       <article class="resume" data-page="resume">
@@ -563,7 +562,9 @@
           </ol>
 
         </section>
-
+                   <!--
+        - #Experience  section start here 
+      -->
         <!-- <section class="timeline">
 
           <div class="title-wrapper">
@@ -621,7 +622,14 @@
           </ol>
 
         </section> -->
+         <!--
+        - #Experience  section start here 
+      -->
 
+           <!--
+        - #RESUME section start here 
+      -->
+<!-- skills start here  -->
         <section class="skill">
 
           <h3 class="h3 skills-title">My skills</h3>
@@ -632,7 +640,7 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">Web design</h5>
-                <data value="80">95%</data>
+                <data value="95">95%</data>
               </div>
 
               <div class="skill-progress-bg">
@@ -645,11 +653,11 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">Graphic design</h5>
-                <data value="70">70%</data>
+                <data value="85">85%</data>
               </div>
 
               <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 70%;"></div>
+                <div class="skill-progress-fill" style="width: 85%;"></div>
               </div>
 
             </li>
@@ -658,7 +666,7 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">Softawre  development</h5>
-                <data value="90">60%</data>
+                <data value="90">75%</data>
               </div>
 
               <div class="skill-progress-bg">
@@ -671,20 +679,73 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">WordPress</h5>
-                <data value="50">90%</data>
+                <data value="50">95%</data>
               </div>
 
               <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 50%;"></div>
+                <div class="skill-progress-fill" style="width: 95%;"></div>
               </div>
 
             </li>
 
+              <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Mern Stack</h5>
+                <data value="50">65%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 65%;"></div>
+              </div>
+
+            </li>
+
+              <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">UI/UX</h5>
+                <data value="50">80%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+
+            </li>
+
+
+              <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Internet Application's</h5>
+                <data value="50">55%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 55%;"></div>
+              </div>
+
+            </li>
+
+              <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">MySQL(Crud)</h5>
+                <data value="50">90%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 90%;"></div>
+              </div>
+
+            </li>
           </ul>
 
         </section>
 
-      </article>
+        <!-- skills end here  -->
+  </article>
 
 
 
@@ -769,9 +830,9 @@
                   <img src="./assets/images/project-1.jpg" alt="finance" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Finance</h3>
+                <h3 class="project-title">HMS</h3>
 
-                <p class="project-category">Web development</p>
+                <p class="project-category">MERN Stack development</p>
 
               </a>
             </li>
@@ -787,9 +848,9 @@
                   <img src="./assets/images/project-2.png" alt="orizon" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Orizon</h3>
+                <h3 class="project-title">Cylinder-Booking</h3>
 
-                <p class="project-category">Web development</p>
+                <p class="project-category">Full Stack development</p>
 
               </a>
             </li>
@@ -805,7 +866,7 @@
                   <img src="./assets/images/project-3.jpg" alt="fundo" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Fundo</h3>
+                <h3 class="project-title">Chatsphere(Chatboat)</h3>
 
                 <p class="project-category">Web design</p>
 
@@ -823,9 +884,9 @@
                   <img src="./assets/images/project-4.png" alt="brawlhalla" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Brawlhalla</h3>
+                <h3 class="project-title">placementHub</h3>
 
-                <p class="project-category">Applications</p>
+                <p class="project-category">Full Stack Development</p>
 
               </a>
             </li>
@@ -841,7 +902,7 @@
                   <img src="./assets/images/project-5.png" alt="dsm." loading="lazy">
                 </figure>
 
-                <h3 class="project-title">DSM.</h3>
+                <h3 class="project-title">Qr Code Reader</h3>
 
                 <p class="project-category">Web design</p>
 
@@ -859,9 +920,9 @@
                   <img src="./assets/images/project-6.png" alt="metaspark" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">MetaSpark</h3>
+                <h3 class="project-title">Restaurent</h3>
 
-                <p class="project-category">Web design</p>
+                <p class="project-category">Full Stack Development</p>
 
               </a>
             </li>
@@ -877,7 +938,7 @@
                   <img src="./assets/images/project-7.png" alt="summary" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Summary</h3>
+                <h3 class="project-title">Hotel</h3>
 
                 <p class="project-category">Web development</p>
 
@@ -895,7 +956,7 @@
                   <img src="./assets/images/project-8.jpg" alt="task manager" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Task Manager</h3>
+                <h3 class="project-title">Personal Portfolio</h3>
 
                 <p class="project-category">Applications</p>
 
